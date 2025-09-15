@@ -7,4 +7,4 @@
 <li>Terminal - Allows the user to interact with the operating system by typing commands </li>
 <li>GUI - Graphical User Interface is a type of computer interface that allows the user to interact with electronic devices</li>
 </ol>
-<p>Tiger! Range, 400 meters!</p>
+
