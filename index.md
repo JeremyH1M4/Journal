@@ -1,3 +1,8 @@
+<header>
+   <link rel="stylesheet" href="PSS.css" />
+</header>
+
+<body>
 <h1>Journal</h1>
 
 <ol>
@@ -7,4 +12,4 @@
 <li>Terminal - Allows the user to interact with the operating system by typing commands </li>
 <li>GUI - Graphical User Interface is a type of computer interface that allows the user to interact with electronic devices</li>
 </ol>
-
+</body>
