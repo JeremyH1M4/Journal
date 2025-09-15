@@ -1,4 +1,6 @@
 <html>
+  <h1>Journal-1</h1>
+  
 Repository - Central location in which data is stored and managed
 Git - Control Software capable of managing versions of source code or data
 CLI - Command Line Interface is a text-based system for interacting with a computer via using commands
