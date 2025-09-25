@@ -6,5 +6,6 @@ Git - Control Software capable of managing versions of source code or data
 CLI - Command Line Interface is a text-based system for interacting with a computer by using commands
 Terminal - Allows the user to interact with the operating system by typing commands 
 GUI - Graphical User Interface is a type of computer interface that allows the user to interact with electronic devices
-
+Reset stylesheet - Defaults browser's formatting of HTML elements.
+User Agent Styles - Default set of CSS rules that is applied to webpages within a web browser.
 </html>
